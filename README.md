@@ -2,7 +2,7 @@
 
 This is a very basic demo of using the [MQTT package](https://www.npmjs.com/package/mqtt) with Node.js to send messages between a set of fake sensors, and a server.
 
-This demo uses the free [HiveMQ MQTT broker](http://www.mqtt-dashboard.com/).
+This demo uses the free [HiveMQ MQTT broker](http://www.mqtt-dashboard.com/).  You can read more about how MQTT works [here](http://www.hivemq.com/blog/mqtt-essentials-part-1-introducing-mqtt).
 
 ## Setup
 
