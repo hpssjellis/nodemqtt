@@ -6,7 +6,7 @@ This demo uses the free [HiveMQ MQTT broker](http://www.mqtt-dashboard.com/).
 
 ## Setup
 
-* Install Node.js.
+* Install [Node.js](https://nodejs.org)
 * Clone this repo, then:
 
 ```
