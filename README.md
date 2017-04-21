@@ -4,6 +4,8 @@ This is a very basic demo of using the [MQTT package](https://www.npmjs.com/pack
 
 This demo uses the free [HiveMQ MQTT broker](http://www.mqtt-dashboard.com/).  You can read more about how MQTT works [here](http://www.hivemq.com/blog/mqtt-essentials-part-1-introducing-mqtt).
 
+Alternatively you could install your own MQTT broker, for example [Mosquitto](https://test.mosquitto.org/).
+
 ## Setup
 
 * Install [Node.js](https://nodejs.org)
