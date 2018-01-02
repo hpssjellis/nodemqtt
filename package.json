@@ -10,13 +10,13 @@
   "keywords": [
     "mqtt"
   ],
-  "repository" : { 
-    "type" : "git", 
-     "url" : "https://github.com/Conectric/nodemqtt.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Conectric/nodemqtt.git"
   },
   "author": "Conectric Networks",
   "license": "MIT",
   "dependencies": {
-    "mqtt": "2.6.2"
+    "mqtt": "2.15.0"
   }
 }
